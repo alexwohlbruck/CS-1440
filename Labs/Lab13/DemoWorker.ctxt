@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=DemoWorker
+comment0.text=\r\n\ DemoWorker.\r\n\ \r\n\ @author\ Alex\ Wohlbruck\r\n\ @version\ 2018-12-03\r\n
+comment1.params=
+comment1.target=DemoWorker()
+comment1.text=\r\n\ No-arg\ constructor\ for\ DemoWorker.\r\n
+comment2.params=
+comment2.target=java.util.ArrayList\ getEmployees()
+comment2.text=\r\n\ Accessor\ for\ employees.\r\n\ @return\ employees\r\n
+comment3.params=employees
+comment3.target=void\ setEmployees(java.util.ArrayList)
+comment3.text=\r\n\ Mutator\ for\ employees.\r\n\ @param\ employees\ employees\r\n
+numComments=4

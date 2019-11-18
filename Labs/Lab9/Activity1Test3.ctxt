@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ testReset()
+comment0.text=\r\n\ Tests\ the\ reset\ method.\r\n
+comment1.params=
+comment1.target=void\ testGenerateLotteryPicks()
+comment1.text=\r\n\ Test\ the\ generateLotteryPicks\ method.\r\n
+comment2.params=
+comment2.target=void\ testToString()
+comment2.text=\r\n\ Test\ the\ toString\ method.\r\n
+numComments=3

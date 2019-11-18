@@ -1,0 +1,96 @@
+{
+	"Field": {
+		"prefix": "field",
+		"body": [
+			"private ${1:type} ${2:name};"
+		],
+		"description": "Create a class field"
+	},
+
+	"No-arg constructor": {
+		"prefix": "no-arg constructor",
+		"body": [
+			"/**",
+			" * No-arg constructor for ${1:ClassName}.",
+			" */",
+			"public ${1:ClassName}()",
+			"{",
+			"\t${2:body}",
+			"}"
+		],
+		"description": "Create a no-arg constructor for the class"
+	},
+
+	"Arg constructor": {
+		"prefix": "arg constructor",
+		"body": [
+			"/**",
+			" * Arg constructor for ${1:ClassName}.",
+			" */",
+			"public ${1:ClassName}(${2:args})",
+			"{",
+			"\t${3:body}",
+			"}"
+		],
+		"description": "Create a no-arg constructor for the class"
+	},
+
+	"Accessor": {
+		"prefix": "accessor",
+		"body": [
+			"/**",
+			" * Accessor for ${1:name}.",
+			" * @return ${1:name}",
+			" */",
+			"public ${2:returnType} get${3:Name}()",
+			"{",
+			"\treturn this.${1:name};",
+			"}"
+		],
+		"description": "Create a field accessor"
+	},
+
+	"Mutator": {
+		"prefix": "mutator",
+		"body": [
+			"/**",
+			" * Mutator for ${1:name}.",
+			" * @param ${1:name}",
+			" */",
+			"public void set${2:Name}(${3:type} ${1:name})",
+			"{",
+			"\tthis.${1:name} = ${1:name};",
+			"}"
+		],
+		"description": "Create a field accessor"
+	},
+
+	"Method": {
+		"prefix": "method",
+		"body": [
+			"/**",
+			" * ${1:Description}.",
+			" */",
+			"public ${2:returnType} ${3:name}(${4:args})",
+			"{",
+			"\t${5:body}",
+			"}"
+		]
+	},
+
+	"Print Line": {
+		"prefix": "println",
+		"body": [
+			"System.out.println(\"${1:Hello world}\");"
+		],
+		"description": "Print to console with newline character"
+	},
+
+	"Print": {
+		"prefix": "print",
+		"body": [
+			"System.out.print(\"${1:Hello world}\");"
+		],
+		"description": "Print to console"
+	}
+}

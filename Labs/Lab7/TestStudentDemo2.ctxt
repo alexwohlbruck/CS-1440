@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ testMain()
+comment0.text=\r\n\ Perform\ multiple\ checks\ of\ the\ main\ method\ from\r\n\ the\ StudentDemo\ class.\r\n
+comment1.params=
+comment1.target=void\ checkMain1()
+comment1.text=\r\n\ Perform\ one\ check\ of\ the\ StudentDemo\ main\ method.\r\n
+comment2.params=
+comment2.target=void\ checkMain2()
+comment2.text=\r\n\ Perform\ one\ check\ of\ the\ StudentDemo\ main\ method.\r\n
+comment3.params=
+comment3.target=void\ checkMain3()
+comment3.text=\r\n\ Perform\ one\ check\ of\ the\ StudentDemo\ main\ method.\r\n
+comment4.params=
+comment4.target=void\ checkMain4()
+comment4.text=\r\n\ Perform\ one\ check\ of\ the\ StudentDemo\ main\ method.\r\n
+comment5.params=name\ credits\ average\ required\ exp
+comment5.target=void\ checkMain(java.lang.String,\ int,\ double,\ int,\ java.lang.String[])
+comment5.text=\r\n\ Test\ the\ main\ method\ from\ the\ StudentDemo\ class.\ \ Run\ the\ \r\n\ student\ main\ and\ see\ if\ the\ output\ matches\ any\ one\ of\ exp1,\ \r\n\ exp2,\ or\ exp3.\r\n\ @param\ name\ The\ name\ to\ use\ for\ testing.\r\n\ @param\ credits\ The\ number\ of\ credits\ to\ use\ for\ testing.\r\n\ @param\ average\ The\ grade\ average\ to\ use\ for\ testing.\r\n\ @param\ required\ The\ required\ number\ of\ credits\ \ to\ use\ \r\n\ for\ testing.\r\n\ @param\ exp\ An\ array\ of\ expected\ output\ strings.\r\n\ \r\n
+comment6.params=failLine\ expected\ studentData
+comment6.target=void\ failMain(int,\ java.lang.String,\ java.lang.String)
+comment6.text=\r\n\ Print\ an\ error\ message\ for\ main\ depending\ on\ the\ line\r\n\ the\ error\ was\ detected.\r\n\ @param\ failLine\ The\ output\ should\ be\ four\ lines.\ \ This\r\n\ is\ the\ line\ number\ that\ failed.\r\n\ @param\ expected\ The\ correct\ line\ to\ show\ to\ the\ student\r\n\ so\ they\ will\ know\ the\ correct\ line\ for\ which\ the\ test\r\n\ is\ looking.\r\n\ @param\ studentData\ The\ incorrect\ four\ lines\ of\ output\ from\ \r\n\ the\ students\ program.\r\n
+numComments=7

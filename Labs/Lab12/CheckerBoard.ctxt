@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=CheckerBoard
+comment0.text=\r\n\ CheckerBoard\ class.\r\n\ @author\ Alex\ Wohlbruck\r\n\ @version\ 2018-11-27\r\n
+comment1.params=
+comment1.target=CheckerBoard()
+comment1.text=\r\n\ No\ arg\ constructor.\r\n
+comment2.params=
+comment2.target=void\ reverseColors()
+comment2.text=\r\n\ Nah.\r\n
+comment3.params=waitAmountMillis
+comment3.target=void\ delay(long)
+comment3.text=\r\n\ Freeze\ program\ for\ x\ milliseconds.\r\n\ @param\ waitAmountMillis\ amount\ of\ time\ to\ wait\r\n
+comment4.params=
+comment4.target=void\ extraCreditAnimation()
+comment4.text=\r\n\ Long\ complicated\ code\ that\ I\ didn't\ comment.\r\n\ sorry\ about\ that\r\n\ don't\ touch\r\n
+comment5.params=x\ y\ color
+comment5.target=void\ setColor(int,\ int,\ java.lang.String)
+comment5.text=\r\n\ Change\ color\ of\ a\ single\ square.\r\n\ @param\ x\ x\ value\ of\ square\r\n\ @param\ y\ y\ value\ of\ square\r\n\ @param\ color\ color\ to\ change\ to\r\n
+comment6.params=
+comment6.target=java.util.ArrayList\ getRowList()
+comment6.text=\r\n\ Accessor\ for\ rowList.\r\n\ @return\ rowList\ rowList\r\n
+comment7.params=rowList
+comment7.target=void\ setRowList(java.util.ArrayList)
+comment7.text=\r\n\ Mutator\ for\ rowList.\r\n\ @param\ rowList\ rowList\r\n
+numComments=8

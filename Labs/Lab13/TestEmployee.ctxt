@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=TestEmployee
+comment0.text=\r\n\ Test\ WeatherMonth\ activity\ 1.\r\n\ \r\n\ @author\ Joel\ Swanson\r\n\ @version\ 03.14.2014\r\n
+comment1.params=
+comment1.target=void\ checkNoArgConstructor001()
+comment1.text=\r\n\ Check\ the\ no\ arg\ constructor.\r\n
+comment2.params=
+comment2.target=void\ checkArgConstructor002()
+comment2.text=\r\n\ Check\ the\ arg\ constructor.\r\n
+comment3.params=
+comment3.target=void\ checkToString003()
+comment3.text=\r\n\ Check\ the\ toString\ method.\r\n
+comment4.params=
+comment4.target=void\ checkComputeWeeklyPay004()
+comment4.text=\r\n\ Check\ the\ calculations\ for\ computing\ weekly\ pay.\r\n
+comment5.params=name\ idNumber\ hireDate\ shift
+comment5.target=void\ checkArgConstructor(java.lang.String,\ java.lang.String,\ java.lang.String,\ ShiftType)
+comment5.text=\r\n\ Check\ the\ arg\ constructor\ using\ parameters.\r\n\ @param\ name\ Check\ constructor\ using\ this\ given\ value.\r\n\ @param\ idNumber\ Check\ constructor\ using\ this\ given\ value.\r\n\ @param\ hireDate\ Check\ constructor\ using\ this\ given\ value.\r\n\ @param\ shift\ Check\ constructor\ using\ this\ given\ value.\r\n
+numComments=6
